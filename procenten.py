@@ -52,3 +52,5 @@ match choice:
     
     case _:
         print("je hebt een ongeldige optie gekozen")
+
+print("git test")
